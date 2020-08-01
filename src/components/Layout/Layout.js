@@ -1,6 +1,6 @@
-import React, { Fragment } from 'react'
+import React, { Fragment } from 'react';
 
-import styles from './Layout.module.css'
+import styles from './Layout.module.css';
 
 const Layout = props => {
   return (
@@ -15,4 +15,4 @@ const Layout = props => {
   )
 }
 
-export default Layout
+export default Layout;
